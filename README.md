@@ -8,24 +8,22 @@ This is a mock Dropbox app allowing a user to navigate through a first time user
 
 # Required user stories:
 
--[x] User can tap through the 3 welcome screens.
+- [x] User can tap through the 3 welcome screens.
 
--[x] User can follow the create user flow.
+- [x] User can follow the create user flow.
 
--[x] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
+- [x] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
 
--[x] Before creating the account, user can choose to read the terms of service.
+- [x] Before creating the account, user can choose to read the terms of service.
 
--[x] After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
+- [x] After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
 
--[x] User can log out from the Settings screen.
+- [x] User can log out from the Settings screen.
 
--[x] User can follow the sign in flow.
+- [x] User can follow the sign in flow.
 
--[x] User can tap the area for "Having trouble signing in?"
+- [x] User can tap the area for "Having trouble signing in?"
 
--[x] User can log out from the Settings screen.
+- [x] User can log out from the Settings screen.
 
-
-
-blob:https://imgur.com/c5fffba0-d933-4835-b11a-6288bed98deb
+[[https://imgur.com/a/4fel0]]
