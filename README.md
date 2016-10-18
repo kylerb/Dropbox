@@ -28,4 +28,4 @@ This is a mock Dropbox app allowing a user to navigate through a first time user
 
 
 
-http://imgur.com/a/4fel0
+blob:https://imgur.com/c5fffba0-d933-4835-b11a-6288bed98deb
