@@ -25,6 +25,12 @@ class SignInViewController: UIViewController {
     @IBAction func didPressBack(_ sender: AnyObject) {
         navigationController?.popViewController(animated: true)
     }
+    
+    @IBAction func didPressCancel(_ sender: UIButton) {
+        self.presentingViewController?.dismiss(animated: true, completion: nil)
+    }
+    
+    
     /*
     // MARK: - Navigation
 
