@@ -26,3 +26,6 @@ This is a mock Dropbox app allowing a user to navigate through a first time user
 
 -[x] User can log out from the Settings screen.
 
+
+
+http://imgur.com/a/4fel0
